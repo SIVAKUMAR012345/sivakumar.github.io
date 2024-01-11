@@ -1,10 +1,12 @@
 # SIVAKUMAR LIBRARY
 
-[Stylish Portfolio](https://startbootstrap.com/theme/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+ABOUT
+
+The Vikram Sarabhai Library (VSL) is named after Dr. Vikram Sarabhai, world renowned physicist and founding Director of IIMA. It was set up in 1962 and is one of the best management libraries in Asia. The library is open 24x7. Our mission is to facilitate convenient and user friendly access to current, global and relevant information by identifying, acquiring, organizing and retrieving information in various formats (print & non print) to serve the information needs of the academic fraternity of IIMA to meet their teaching, research, consulting, training and learning requirements.
 
 ## Preview
 
-[![Stylish Portfolio Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
+[![Stylish Portfolio Preview](https://in.images.search.yahoo.com/images/view;_ylt=AwrKEoSABaBlN50rQaq9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2VjZTVjOWFmNzA0MjVhODBjOTQwODViN2Q5NjY2YjA4BGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbishop%2Bheber%2Bcollege%26ei%3DUTF-8%26type%3DE211IN885G91802%26fr%3Dmcafee%26fr2%3Dsa-gp-search%26tab%3Dorganic%26ri%3D2&w=1280&h=720&imgurl=www.digitaltrichy.com%2Fwp-content%2Fuploads%2F2021%2F03%2Femblem-bishop.jpg&rurl=https%3A%2F%2Fwww.digitaltrichy.com%2Fbishop-heber-college-autonomous%2F&size=58.9KB&p=bishop+heber+college&oid=ece5c9af70425a80c94085b7d9666b08&fr2=sa-gp-search&fr=mcafee&tt=BISHOP+HEBER+COLLEGE+%28+AUTONOMOUS+%29+-+Digital+Trichy+%7C+Tiruchirappalli+...&b=0&ni=58&no=2&ts=&tab=organic&sigr=z.xSkj7Qr8.i&sigb=mrKFD7XqZBWB&sigi=jC2or3Vcj1mK&sigt=VDTJPnjKMnMI&.crumb=U3TXMuFr0o8&fr=mcafee&fr2=sa-gp-search&type=E211IN885G91802)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
 
