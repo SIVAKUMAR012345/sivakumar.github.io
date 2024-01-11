@@ -1,71 +1,86 @@
-# SIVAKUMAR LIBRARY
+<!DOCTYPE html>
+<html lang="en">
 
-ABOUT
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sivakumar Library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
-The Vikram Sarabhai Library (VSL) is named after Dr. Vikram Sarabhai, world renowned physicist and founding Director of IIMA. It was set up in 1962 and is one of the best management libraries in Asia. The library is open 24x7. Our mission is to facilitate convenient and user friendly access to current, global and relevant information by identifying, acquiring, organizing and retrieving information in various formats (print & non print) to serve the information needs of the academic fraternity of IIMA to meet their teaching, research, consulting, training and learning requirements.
+<body>
 
-## Preview
+    <header>
+        <h1>Sivakumar Library</h1>
+        <p>Your Gateway to Knowledge</p>
+    </header>
 
-[![Stylish Portfolio Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Catalog</a>
+        <a href="#">Services</a>
+        <a href="#">Contact Us</a>
+    </nav>
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
+    <section>
+        <h2>Welcome to Sivakumar Library</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel justo sit amet orci maximus
+            accumsan. Sed eu odio vel justo luctus interdum ac non libero. Integer ac neque vel justo
+            aliquet tempus. Nulla facilisi. Vestibulum vel velit at erat fermentum consectetur id vel
+            ex.</p>
+    </section>
 
-## Status
+    <footer>
+        <p>&copy; 2024 Sivakumar Library. All rights reserved.</p>
+    </footer>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-stylish-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
+</body>
 
-## Download and Installation
+</html>
+Additionally, you can create a separate style.css file to manage the styling:
 
-To begin using this template, choose one of the following options to get started:
+css
+Copy code
+/* style.css */
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
 
-## Usage
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
 
-### Basic Usage
+nav {
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+}
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
 
-### Advanced Usage
+section {
+    padding: 20px;
+}
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
-
-#### npm Scripts
-
-* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-* `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-* `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-* `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-* `npm run start:debug` runs the project in debug mode
-* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
-You must have npm installed in order to use this build environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/stylish-portfolio/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/master/LICENSE) license.
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
